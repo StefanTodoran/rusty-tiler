@@ -1,1 +1,5 @@
+# build artifacts
 /target
+
+# dummy data
+/dummy
